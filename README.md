@@ -6,4 +6,7 @@ This repository aims to store the codes used to study the book [Black Hat Python
 
 # Index
 
-[Chapter 01](./chapter_1/chapter_1.md)
+Chapter 01: Setup Your Python Environment
+[Chapter 02: Basic Network Tools](./chapter_02/chapter_02.md)
+    - [Simple TCP client](./chapter_02/tcp_client.py)
+    - [Simple UDP client](./chapter_02/udp_client.py)
