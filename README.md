@@ -1,6 +1,6 @@
 # Black Hat Python Codes
 
-Python codes present in the book the book [Black Hat Python (2nd Edition)](https://www.amazon.com.br/gp/product/1718501129/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) and a few other ones.
+Python codes present in the book [Black Hat Python (2nd Edition)](https://www.amazon.com.br/gp/product/1718501129/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) and a few other ones.
 
 ![book cover](https://m.media-amazon.com/images/I/51PyeYho5dS.jpg)
 
