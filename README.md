@@ -6,7 +6,7 @@ Python codes present in the book [Black Hat Python (2nd Edition)](https://www.am
 
 # Index
 
-- Chapter 01: Setup Your Python Environment
+- Chapter 01: Setup Your Python Environment (no script needed)
 - [Chapter 02: Basic Network Tools](./chapter_02/README.md)
     - [Simple TCP client](./chapter_02/tcp_client.py)
     - [Simple UDP client](./chapter_02/udp_client.py)
