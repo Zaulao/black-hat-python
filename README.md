@@ -11,3 +11,4 @@ Python codes present in the book [Black Hat Python (2nd Edition)](https://www.am
     - [Simple TCP client](./chapter_02/tcp_client.py)
     - [Simple UDP client](./chapter_02/udp_client.py)
     - [Simple TCP server](./chapter_02/tcp_server.py)
+    - [Replacing Netcat](./chapter_2/netcat.py)
