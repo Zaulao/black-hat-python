@@ -7,3 +7,4 @@
 - [Simple TCP server](./tcp_server.py)
 - [Replacing Netcat](./netcat.py)
     - This tool can be used as a local client or to connect to a remote server. Check `--help` for more infos.
+- [TCP Proxy](./proxy.py)
